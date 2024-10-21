@@ -1,6 +1,6 @@
 # url_shortener_app
 
-A new Flutter project.
+Url shortener app with toast messages.
 
 ## Getting Started
 
